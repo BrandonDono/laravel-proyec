@@ -8,8 +8,4 @@
 <body>
     <h1>mi primera pagina web</h1>
 </body>
-<<<<<<< HEAD
 </html>
-=======
-</html>
->>>>>>> d7f293ebe7920d3926ba9fb0c23861e283458d65
